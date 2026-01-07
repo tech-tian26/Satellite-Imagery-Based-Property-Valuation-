@@ -22,18 +22,7 @@ Multiple modeling strategies are explored, including image-only deep learning mo
 
 ---
 
-## Repository Structure
-
-RealEstate_Multimodal/
-    ├── data_fetcher.py
-    ├── preprocessing.ipynb
-    ├── model_training.ipynb
-    ├── enrollno_final.csv
-    ├── enrollno_report.pdf
-    └── README.md
-
-
-### File Description
+## File Description
 
 - **data_fetcher.py**  
   Script used to download satellite images from the Mapbox Static Images API using latitude and longitude coordinates.
