@@ -24,12 +24,12 @@ Multiple modeling strategies are explored, including image-only deep learning mo
 
 ##  Repository Structure
 
--│
--├── data_fetcher.py
--├── preprocessing_training.ipynb
--├── enrollno_final.csv
--├── enrollno_report.pdf
--└── README.md
+│
+├── data_fetcher.py
+├── preprocessing_training.ipynb
+├── enrollno_final.csv
+├── enrollno_report.pdf
+└── README.md
 
 
 ### File Description
@@ -92,7 +92,7 @@ Images were downloaded once and reused for all experiments due to API and comput
 
 ---
 
-## 📊 Results (Log-Price Space)
+## Results (Log-Price Space)
 
 | Model | R² Score |
 |------|---------|
