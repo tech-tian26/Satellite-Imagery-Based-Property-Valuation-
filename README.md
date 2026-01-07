@@ -24,9 +24,10 @@ Multiple modeling strategies are explored, including image-only deep learning mo
 
 ##  Repository Structure
 
-│
+RealEstate_Multimodal/
 ├── data_fetcher.py
-├── preprocessing_training.ipynb
+├── preprocessing.ipynb
+├── model_training.ipynb
 ├── enrollno_final.csv
 ├── enrollno_report.pdf
 └── README.md
