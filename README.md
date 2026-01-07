@@ -27,9 +27,10 @@ Multiple modeling strategies are explored, including image-only deep learning mo
 - **data_fetcher.py**  
   Script used to download satellite images from the Mapbox Static Images API using latitude and longitude coordinates.
 
-- **preprocessing_training.ipynb**  
+- **preprocessing.ipynb**  
   Data cleaning, feature engineering, and exploratory data analysis (EDA) on tabular and image data.
-  
+
+- **model_training.ipynb**
   Training and evaluation of:
   - Image-only CNN (ResNet-18)  
   - Tabular models (XGBoost, Random Forest, Gradient Boosting)  
